@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next Steps
+title: Next Step
 tags: second markdown example
 categories: demo
 ---
