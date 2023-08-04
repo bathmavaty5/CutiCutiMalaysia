@@ -1,0 +1,11 @@
+# Site settings
+title: Cuti Cuti Malaysia
+author:
+  name: Bathmavaty
+  email: bathmavatysiluraja@gmail.com
+description: 
+
+ 
+
+# Build settings
+remote_theme: jekyll/minima
